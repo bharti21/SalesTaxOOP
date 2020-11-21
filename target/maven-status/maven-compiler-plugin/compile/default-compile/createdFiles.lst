@@ -1,0 +1,9 @@
+com\oops\salestax\Main.class
+com\oops\salestax\entities\receipt\Receipt.class
+com\oops\salestax\execute\SalesTaxExecutor.class
+com\oops\salestax\entities\commons\InputDetails.class
+com\oops\salestax\tax\TaxCalculator.class
+com\oops\salestax\tax\Tax.class
+com\oops\salestax\utils\InputParser.class
+com\oops\salestax\entities\items\Item.class
+com\oops\salestax\entities\items\NonTaxableItems.class
